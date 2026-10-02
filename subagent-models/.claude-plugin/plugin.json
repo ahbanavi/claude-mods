@@ -1,0 +1,7 @@
+{
+  "name": "subagent-models",
+  "version": "0.1.0",
+  "description": "Shows each running subagent's model and effort on the hint line above the agent list",
+  "author": { "name": "ahbanavi" },
+  "types": "./types/index.d.ts"
+}

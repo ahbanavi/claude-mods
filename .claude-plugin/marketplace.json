@@ -1,0 +1,15 @@
+{
+  "name": "claude-mods",
+  "description": "Claude Code mods: small TypeScript hooks that customize Claude Code",
+  "owner": {
+    "name": "ahbanavi",
+    "url": "https://github.com/ahbanavi"
+  },
+  "plugins": [
+    {
+      "name": "subagent-models",
+      "source": "./subagent-models",
+      "description": "Shows each running subagent's model and effort on the hint line above the agent list"
+    }
+  ]
+}
